@@ -10,3 +10,11 @@
 
 - 字幕：https://vcb-s.com/archives/18281
 - 视频：https://vcb-s.com/archives/18281
+
+## 位于恋爱光谱极端的我们
+
+- 字幕：https://bbs.acgrip.com/forum.php?mod=viewthread&tid=11468
+
+## 白圣女与黑牧师
+
+- 字幕：https://bbs.acgrip.com/forum.php?mod=viewthread&tid=11246

@@ -8,5 +8,8 @@
 
 ## 更衣人偶坠入爱河
 
-- 字幕：https://vcb-s.com/archives/16229
-- 视频：https://vcb-s.com/archives/16229
+- 字幕/视频：https://vcb-s.com/archives/16229
+
+## 明日同学的水手服
+
+- 视频/字幕：https://vcb-s.com/archives/18598
