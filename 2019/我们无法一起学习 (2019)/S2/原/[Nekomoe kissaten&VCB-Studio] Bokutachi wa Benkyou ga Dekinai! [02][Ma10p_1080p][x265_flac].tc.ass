@@ -1,0 +1,722 @@
+﻿[Script Info]
+Title: [Nekomoe kissaten] Bokutachi wa Benkyou ga Dekinai S2 [02][BDRip].TC
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正兰亭圆_GBK_中,48,&H00FFFFFF,&H000000FF,&H00E59419,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,15,15,15,1
+Style: OPCH,方正中粗雅宋_GBK,40,&H00FEFCFF,&H000200ED,&H00000000,&H00000816,0,0,0,0,100,100,2,0,1,2,0,8,15,15,25,1
+Style: OPJP,FOT-TsukuMin Pr6N E,55,&H00FFFFFF,&H000200ED,&H00000000,&H00000816,0,0,0,0,100,100,2,0,1,2,0,2,15,15,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.98,0:00:02.39,break,,0,0,0,,---------------staff------------
+Dialogue: 0,0:00:00.02,0:00:04.10,Default,,0,0,0,,{\an8\fs40\fad(300,300)\bord2\blur3}本字幕由喵萌奶茶屋製作  僅供交流試看之用  請勿用於商業用途\N字幕組招募翻譯  QQ群：421320480
+Dialogue: 0,0:00:04.10,0:00:08.27,Default,,0,0,0,,{\fs40\an8\fad(300,300)\bord2\blur3}翻譯：某科學的天天王子  劍  名別  漠靈  校對：依依  時後：Poi  特效：黑鳥  Poi  繁化：貓蟲
+Comment: 0,0:00:00.98,0:00:02.39,Default,,0,0,0,,---------------title------------
+Dialogue: 0,0:02:02.18,0:02:06.81,Default,,0,0,0,,{\fad(0,0)\3c&H07090E&\fs40\fn方正兰亭黑Pro Global Demibold\move(870,620,870,590,0,400)\iclip(632,590.857,1189.714,619.429)}前輩的自尊有時也會與[X]們的情況相違背
+Dialogue: 0,0:02:06.81,0:02:07.23,Default,,0,0,0,,{\fad(0,0)\3c&H07090E&\fs40\fn方正兰亭黑Pro Global Demibold\move(870,590,870,620,0,400)\iclip(632,590.857,1189.714,619.429)}前輩的自尊有時也會與[X]們的情況相違背
+Dialogue: 0,0:23:37.06,0:23:39.98,Default,,0,0,0,,{\an6\3c&H07090E&\fs40\fn方正兰亭黑Pro Global Demibold\iclip(1.143,534.857,640,595.429)\move(640,556,1140,556,0,650)}天才為變換的季節與[X]而擔憂
+Comment: 0,0:00:00.00,0:00:00.98,Default,,0,0,0,,---------------screen---------------
+Dialogue: 0,0:12:18.05,0:12:23.05,Default,,0,0,0,,{\c&H001A2530\bord0\fn@方正卡通_GBK\fs40\frz270\pos(1002.667,368)}話說
+Dialogue: 0,0:12:18.05,0:12:23.05,Default,,0,0,0,,{\c&H001A2530\bord0\fn@方正卡通_GBK\fs40\an1\frz270\pos(793.334,66.667)}我才知道\N小美浪前輩\N在做女僕的\N工作呢
+Dialogue: 0,0:12:18.05,0:12:23.05,Default,,0,0,0,,{\c&H001A2530\bord0\fn@方正卡通_GBK\fs40\frz270\pos(628,352)}成幸\N你知道嗎
+Dialogue: 0,0:12:18.05,0:12:23.05,Default,,0,0,0,,{\c&H001A2530\bord0\fn@方正卡通_GBK\fs40\frz276.8\pos(497.333,356)}不 那個 姑且
+Dialogue: 0,0:12:18.05,0:12:23.05,Default,,0,0,0,,{\c&H001A2530\bord0\fn@方正卡通_GBK\fs40\frz270\pos(397.333,398.667)}盯
+Dialogue: 0,0:20:18.48,0:20:21.45,Default,,0,0,0,,{\c&H00834534\bord0\fn@方正兰亭圆_GBK_中\frz270\pos(962.667,294.333)}回想結束
+Comment: 0,0:00:00.98,0:00:02.39,Default,,0,0,0,,---------------text------------
+Dialogue: 0,0:00:09.87,0:00:14.47,Default,,0,0,0,,事情的起因是我第一次獨自解出了不擅長的物理題
+Dialogue: 0,0:00:14.83,0:00:15.42,Default,,0,0,0,,好
+Dialogue: 0,0:00:15.42,0:00:20.32,Default,,0,0,0,,以至於興奮地感覺自己能做好平時不擅長的事情
+Dialogue: 0,0:00:21.09,0:00:24.60,Default,,0,0,0,,誰知道那種幼稚的想法導致了現在的狀況
+Dialogue: 0,0:01:59.07,0:02:01.15,Default,,0,0,0,,女僕家政代理服務
+Dialogue: 0,0:02:01.81,0:02:02.76,Default,,0,0,0,,那是什麼
+Dialogue: 0,0:02:03.05,0:02:06.85,Default,,0,0,0,,就是字面意思 派遣女僕到家裡做家政的服務
+Dialogue: 0,0:02:07.36,0:02:09.54,Default,,0,0,0,,是我們新推出的服務
+Dialogue: 0,0:02:09.76,0:02:13.04,Default,,0,0,0,,其實訂單比我們預計的要多
+Dialogue: 0,0:02:13.04,0:02:14.10,Default,,0,0,0,,已經人手不足了
+Dialogue: 0,0:02:14.43,0:02:16.65,Default,,0,0,0,,唯我君打掃很拿手的吧
+Dialogue: 0,0:02:16.90,0:02:20.74,Default,,0,0,0,,如果可以的話 希望你能幫助愛澄澄
+Dialogue: 0,0:02:21.00,0:02:23.91,Default,,0,0,0,,實在沒辦法了才找你商量的 當然是有工資的
+Dialogue: 0,0:02:23.91,0:02:26.91,Default,,0,0,0,,喂 我不是說了我一個人就夠了嗎
+Dialogue: 0,0:02:27.47,0:02:29.87,Default,,0,0,0,,沒問題 畢竟也一直受到你們照顧
+Dialogue: 0,0:02:30.79,0:02:32.01,Default,,0,0,0,,好喜歡你 唯我君
+Dialogue: 0,0:02:32.26,0:02:33.06,Default,,0,0,0,,喜歡
+Dialogue: 0,0:02:34.14,0:02:36.11,Default,,0,0,0,,你們倒是聽聽別人說的話啊
+Dialogue: 0,0:02:36.49,0:02:39.37,Default,,0,0,0,,唯我君 愛澄澄就拜託你了
+Dialogue: 0,0:02:39.56,0:02:40.72,Default,,0,0,0,,聽我說啊
+Dialogue: 0,0:02:48.48,0:02:50.06,Default,,0,0,0,,不好意思 後輩
+Dialogue: 0,0:02:50.37,0:02:52.06,Default,,0,0,0,,店裡那些人強求你來做
+Dialogue: 0,0:02:52.30,0:02:55.61,Default,,0,0,0,,沒關係的 畢竟也是有工資的
+Dialogue: 0,0:02:55.99,0:02:57.51,Default,,0,0,0,,倒不如說我還應該心存感激
+Dialogue: 0,0:02:57.51,0:02:59.78,Default,,0,0,0,,是嗎 後輩家比較窮…
+Dialogue: 0,0:03:00.32,0:03:02.27,Default,,0,0,0,,收入比較低吧
+Dialogue: 0,0:03:02.39,0:03:04.90,Default,,0,0,0,,不用改口重說也沒有關係的
+Dialogue: 0,0:03:06.43,0:03:09.59,Default,,0,0,0,,後輩就給我幫幫小忙就行了
+Dialogue: 0,0:03:10.07,0:03:11.86,Default,,0,0,0,,工作就全部交給我吧
+Dialogue: 0,0:03:12.18,0:03:14.12,Default,,0,0,0,,愛澄澄前輩好帥氣
+Dialogue: 0,0:03:14.23,0:03:16.29,Default,,0,0,0,,不要用那個名字叫我
+Dialogue: 0,0:03:16.59,0:03:19.72,Default,,0,0,0,,好好抓穩 否則很危險哦
+Dialogue: 0,0:03:19.72,0:03:20.93,Default,,0,0,0,,好的 抱歉
+Dialogue: 0,0:03:24.24,0:03:25.34,Default,,0,0,0,,好軟
+Dialogue: 0,0:03:29.27,0:03:30.92,Default,,0,0,0,,第一家是這裡吧
+Dialogue: 0,0:03:31.34,0:03:32.98,Default,,0,0,0,,咦 這裡不是
+Dialogue: 0,0:03:37.60,0:03:40.53,Default,,0,0,0,,咦 這不是真冬老師嗎
+Dialogue: 0,0:03:41.67,0:03:44.08,Default,,0,0,0,,客戶名的地方寫的是桐須
+Dialogue: 0,0:03:44.43,0:03:46.86,Default,,0,0,0,,小美浪同學 為什麼你會在這裡
+Dialogue: 0,0:03:46.86,0:03:49.71,Default,,0,0,0,,當然是來做家務代理的啦
+Dialogue: 0,0:03:49.94,0:03:52.42,Default,,0,0,0,,那就趕緊打擾一下了
+Dialogue: 0,0:04:00.98,0:04:02.02,Default,,0,0,0,,那個 老師
+Dialogue: 0,0:04:02.77,0:04:05.86,Default,,0,0,0,,不讓我進去的話是沒辦法做事的
+Dialogue: 0,0:04:06.24,0:04:07.37,Default,,0,0,0,,小美浪同學
+Dialogue: 0,0:04:10.56,0:04:11.61,Default,,0,0,0,,這是什麼意思
+Dialogue: 0,0:04:11.61,0:04:15.46,Default,,0,0,0,,報酬 謝禮 什麼都別說了 回去吧
+Dialogue: 0,0:04:16.90,0:04:18.84,Default,,0,0,0,,請你不要愚弄我
+Dialogue: 0,0:04:19.03,0:04:22.75,Default,,0,0,0,,賭上我的職業尊嚴 不可能白拿錢就回去的
+Dialogue: 0,0:04:22.75,0:04:25.61,Default,,0,0,0,,求你了 快回去吧 回去吧
+Dialogue: 0,0:04:25.61,0:04:28.56,Default,,0,0,0,,不做完事我是絕對不會回去的
+Dialogue: 0,0:04:28.56,0:04:30.50,Default,,0,0,0,,我應該怎麼辦比較好
+Dialogue: 0,0:04:34.62,0:04:35.51,Default,,0,0,0,,30分鐘
+Dialogue: 0,0:04:35.72,0:04:37.59,Default,,0,0,0,,請給我30分鐘時間
+Dialogue: 0,0:04:38.44,0:04:39.98,Default,,0,0,0,,後輩
+Dialogue: 0,0:04:40.96,0:04:43.48,Default,,0,0,0,,怎麼又變成這個樣子了
+Dialogue: 0,0:04:43.81,0:04:46.02,Default,,0,0,0,,你還是讓她打掃一下吧
+Dialogue: 0,0:04:46.66,0:04:48.45,Default,,0,0,0,,什麼 教師的威嚴
+Dialogue: 0,0:04:49.19,0:04:51.43,Default,,0,0,0,,如果是這樣的話…
+Dialogue: 0,0:05:04.83,0:05:05.92,Default,,0,0,0,,讓你久等了
+Dialogue: 0,0:05:06.27,0:05:07.62,Default,,0,0,0,,那麼就拜託你了
+Dialogue: 0,0:05:27.23,0:05:28.68,Default,,0,0,0,,這不需要打掃啊
+Dialogue: 0,0:05:28.68,0:05:31.22,Default,,0,0,0,,你這是在逗我嗎 是在逗我嗎老師
+Dialogue: 0,0:05:31.48,0:05:33.13,Default,,0,0,0,,謝 謝罪
+Dialogue: 0,0:05:33.27,0:05:36.29,Default,,0,0,0,,可能我天生就非常愛乾淨吧
+Dialogue: 0,0:05:37.78,0:05:39.70,Default,,0,0,0,,這個人在說什麼啊
+Dialogue: 0,0:05:42.03,0:05:44.07,Default,,0,0,0,,那個 前輩
+Dialogue: 0,0:05:44.85,0:05:45.59,Default,,0,0,0,,後輩
+Dialogue: 0,0:05:45.59,0:05:46.48,Default,,0,0,0,,在
+Dialogue: 0,0:05:46.60,0:05:47.93,Default,,0,0,0,,我們接著去下一家吧 下一家
+Dialogue: 0,0:05:56.37,0:05:58.30,Default,,0,0,0,,媽媽 感覺怎麼樣了
+Dialogue: 0,0:06:00.64,0:06:01.37,Default,,0,0,0,,潤香
+Dialogue: 0,0:06:01.59,0:06:04.65,Default,,0,0,0,,今天做飯和打掃都由我來做吧
+Dialogue: 0,0:06:04.77,0:06:06.08,Default,,0,0,0,,媽媽好好休息吧
+Dialogue: 0,0:06:06.45,0:06:11.94,Default,,0,0,0,,謝謝 可是你不僅要練游泳還要學習 已經很累了吧
+Dialogue: 0,0:06:13.47,0:06:15.60,Default,,0,0,0,,不用擔心家裡的事了
+Dialogue: 0,0:06:16.37,0:06:18.24,Default,,0,0,0,,我已經叫了家政代理
+Dialogue: 0,0:06:20.49,0:06:22.14,Default,,0,0,0,,家政代理服務
+Dialogue: 0,0:06:22.58,0:06:23.95,Default,,0,0,0,,還有這種服務啊
+Dialogue: 0,0:06:24.37,0:06:26.34,Default,,0,0,0,,其實我確實累死了
+Dialogue: 0,0:06:26.46,0:06:29.35,Default,,0,0,0,,全部幫我做了的話還真幫了大忙
+Dialogue: 0,0:06:33.83,0:06:34.58,Default,,0,0,0,,來了
+Dialogue: 0,0:06:39.48,0:06:41.77,Default,,0,0,0,,成幸和小美浪前輩
+Dialogue: 0,0:06:41.77,0:06:43.27,Default,,0,0,0,,你怎麼穿成這樣
+Dialogue: 0,0:06:43.39,0:06:46.00,Default,,0,0,0,,怎麼下一家是武元家啊
+Dialogue: 0,0:06:46.15,0:06:47.55,Default,,0,0,0,,這接二連三的啊
+Dialogue: 0,0:06:47.98,0:06:52.87,Default,,0,0,0,,委託的內容是房子的打掃和準備晚餐吧
+Dialogue: 0,0:06:53.37,0:06:55.14,Default,,0,0,0,,好 開始幹吧
+Dialogue: 0,0:06:55.54,0:06:57.03,Default,,0,0,0,,打擾了
+Dialogue: 0,0:06:58.69,0:06:59.51,Default,,0,0,0,,這是怎麼回事啊
+Dialogue: 0,0:06:59.51,0:07:01.14,Default,,0,0,0,,小美浪就算了
+Dialogue: 0,0:07:01.36,0:07:03.70,Default,,0,500,0,,成幸要進來我家了
+Dialogue: 0,0:07:02.92,0:07:04.53,Default,,500,0,0,,打擾了
+Dialogue: 0,0:07:07.04,0:07:13.00,Default,,0,0,0,,怎麼辦 怎麼辦…
+Dialogue: 0,0:07:29.46,0:07:30.35,Default,,0,0,0,,好吃
+Dialogue: 0,0:07:31.70,0:07:34.74,Default,,0,0,0,,能弄出如此細膩的湯可是神技啊
+Dialogue: 0,0:07:35.76,0:07:37.40,Default,,0,0,0,,真的嗎 我好開心啊
+Dialogue: 0,0:07:40.83,0:07:43.60,Default,,0,0,0,,怎麼就變成我們被款待了啊
+Dialogue: 0,0:07:43.60,0:07:45.11,Default,,0,0,0,,這可是我們的工作
+Dialogue: 0,0:07:45.65,0:07:49.25,Default,,0,0,0,,對不起 一慌張就全部自己做了
+Dialogue: 0,0:07:49.35,0:07:52.05,Default,,0,0,0,,下一家 下一家肯定沒問題的 前輩
+Dialogue: 0,0:07:54.07,0:07:54.64,Default,,0,0,0,,出發
+Dialogue: 0,0:08:06.03,0:08:07.76,Default,,0,0,0,,這個客戶名單是怎麼搞的
+Dialogue: 0,0:08:08.24,0:08:09.84,Default,,0,0,0,,已經嚇不倒我了
+Dialogue: 0,0:08:10.25,0:08:13.44,Default,,0,0,0,,我好像叫的是家政代理
+Dialogue: 0,0:08:13.69,0:08:15.45,Default,,0,0,0,,小美浪前輩怎麼穿成個女僕
+Dialogue: 0,0:08:15.81,0:08:18.01,Default,,0,0,0,,別在意啊 古橋
+Dialogue: 0,0:08:18.29,0:08:20.32,Default,,0,0,0,,總之是有工作的吧
+Dialogue: 0,0:08:20.51,0:08:22.28,Default,,0,0,0,,快點讓我工作吧
+Dialogue: 0,0:08:22.40,0:08:23.78,Default,,0,0,0,,是的
+Dialogue: 0,0:08:24.02,0:08:26.29,Default,,0,0,0,,其實我家廚房有點髒
+Dialogue: 0,0:08:26.47,0:08:28.23,Default,,0,0,0,,我一點辦法也沒有
+Dialogue: 0,0:08:28.36,0:08:30.14,Default,,0,0,0,,而且現在好餓
+Dialogue: 0,0:08:32.59,0:08:37.06,Default,,0,0,0,,本來女子力MAX 中西日的料理都很拿手的古橋
+Dialogue: 0,0:08:37.27,0:08:38.81,Default,,0,0,0,,為什麼要找家政代理
+Dialogue: 0,0:08:39.72,0:08:43.59,Default,,0,0,0,,成幸現在就露出這樣的表情啊
+Dialogue: 0,0:08:43.97,0:08:45.22,Default,,0,0,0,,這下不妙
+Dialogue: 0,0:08:45.96,0:08:47.86,Default,,0,0,0,,久違的挑戰了一下料理
+Dialogue: 0,0:08:48.02,0:08:51.17,Default,,0,0,0,,結果沒想到廚房面臨著前所未有的慘狀
+Dialogue: 0,0:08:52.13,0:08:54.62,Default,,0,0,0,,作為女生 讓男生看到那樣的場面
+Dialogue: 0,0:08:54.91,0:08:56.49,Default,,0,0,0,,絕對不行
+Dialogue: 0,0:09:02.00,0:09:03.19,Default,,0,0,0,,辛苦你們了
+Dialogue: 0,0:09:04.21,0:09:05.87,Default,,0,0,0,,又是這個劇情
+Dialogue: 0,0:09:06.58,0:09:09.25,Default,,0,0,0,,為什麼啊 你肚子不是很餓嗎
+Dialogue: 0,0:09:09.91,0:09:11.47,Default,,0,0,0,,現在很飽了
+Dialogue: 0,0:09:12.64,0:09:13.71,Default,,0,0,0,,騙誰啊
+Dialogue: 0,0:09:14.27,0:09:17.19,Default,,0,0,0,,就算是我也有女僕的尊嚴
+Dialogue: 0,0:09:17.55,0:09:22.10,Default,,0,0,0,,既然收了錢 就不能丟下餓肚子的僱主回去
+Dialogue: 0,0:09:23.33,0:09:24.73,Default,,0,0,0,,小美浪前輩
+Dialogue: 0,0:09:26.71,0:09:28.66,Default,,0,0,0,,你說的對
+Dialogue: 0,0:09:29.04,0:09:30.30,Default,,0,0,0,,你終於明白了啊
+Dialogue: 0,0:09:30.57,0:09:32.31,Default,,0,0,0,,請給我點時間
+Dialogue: 0,0:09:38.97,0:09:40.11,Default,,0,0,0,,請原諒我
+Dialogue: 0,0:09:40.52,0:09:43.60,Default,,0,0,0,,既然前輩不想丟下餓肚子的僱主回去
+Dialogue: 0,0:09:43.85,0:09:45.38,Default,,0,0,0,,那我只能這樣做了
+Dialogue: 0,0:09:50.00,0:09:52.55,Default,,0,0,0,,真是的 今天是怎麼回事啊
+Dialogue: 0,0:09:52.79,0:09:55.70,Default,,0,0,0,,古橋她也有自己的苦衷吧
+Dialogue: 0,0:09:56.33,0:09:56.76,Default,,0,0,0,,大概
+Dialogue: 0,0:09:58.82,0:10:02.26,Default,,0,0,0,,謝謝惠顧 三份冷烏龍麵 讓你們久等了
+Dialogue: 0,0:10:04.76,0:10:07.97,Default,,0,0,0,,什麼跟什麼啊
+Dialogue: 0,0:10:11.93,0:10:14.42,Default,,0,0,0,,可惡 這個烏龍麵真好吃啊
+Dialogue: 0,0:10:14.43,0:10:16.77,Default,,0,0,0,,我們這是吃第二頓晚餐了吧
+Dialogue: 0,0:10:17.20,0:10:18.45,Default,,0,0,0,,想加的話還有
+Dialogue: 0,0:10:18.83,0:10:22.30,Default,,0,0,0,,對不起對不起 我也是沒辦法的
+Dialogue: 0,0:10:28.61,0:10:30.38,Default,,0,0,0,,今天做的事都沒達到要求啊
+Dialogue: 0,0:10:30.63,0:10:32.45,Default,,0,0,0,,一點事都沒做
+Dialogue: 0,0:10:32.45,0:10:35.01,Default,,0,0,0,,算了算了 也會遇到這樣的日子啦
+Dialogue: 0,0:10:35.56,0:10:37.36,Default,,0,0,0,,那麼 我走這邊
+Dialogue: 0,0:10:51.96,0:10:53.94,Default,,0,0,0,,女僕姐姐好厲害
+Dialogue: 0,0:10:54.10,0:10:55.59,Default,,0,0,0,,什麼時候嫁過來啊
+Dialogue: 0,0:10:56.59,0:10:58.26,Default,,0,0,0,,你說什麼時候好呢 親愛的
+Dialogue: 0,0:10:59.65,0:11:01.65,Default,,0,0,0,,喂 他們會當真的
+Dialogue: 0,0:11:09.05,0:11:11.92,Default,,0,0,0,,前輩 你也不用做到這個地步啊
+Dialogue: 0,0:11:12.06,0:11:16.77,Default,,0,0,0,,沒關係的 我只是收錢不做事過意不去而已
+Dialogue: 0,0:11:16.98,0:11:19.80,Default,,0,0,0,,事到如今 就讓我在你家裡做事吧
+Dialogue: 0,0:11:19.86,0:11:22.13,Default,,0,0,0,,既然你都這麼說了
+Dialogue: 0,0:11:30.22,0:11:32.75,Default,,0,0,0,,過來 到你了
+Dialogue: 0,0:11:34.43,0:11:36.07,Default,,0,0,0,,不用吧 這也太
+Dialogue: 0,0:11:36.49,0:11:40.03,Default,,0,0,0,,快點 別讓我再欲求不滿了
+Dialogue: 0,0:11:43.67,0:11:45.45,Default,,0,0,0,,舒服嗎 後輩
+Dialogue: 0,0:11:45.81,0:11:46.93,Default,,0,0,0,,嗯
+Dialogue: 0,0:11:47.31,0:11:49.21,Default,,0,0,0,,哪裡癢就說哦
+Dialogue: 0,0:11:49.61,0:11:50.13,Default,,0,0,0,,好
+Dialogue: 0,0:11:50.41,0:11:53.31,Default,,0,0,0,,這項服務的可是很貴的哦
+Dialogue: 0,0:11:53.85,0:11:55.71,Default,,0,0,0,,對不起
+Dialogue: 0,0:11:59.61,0:12:02.10,Default,,0,0,0,,但是 如果是你的話
+Dialogue: 0,0:12:02.33,0:12:05.65,Default,,0,0,0,,每天都免費給你弄 也不是不可以哦
+Dialogue: 0,0:12:06.77,0:12:09.30,Default,,0,0,0,,夠了 我再也不會中這招了
+Dialogue: 0,0:12:09.82,0:12:13.54,Default,,0,0,0,,什麼嘛 反應再可愛一點啊 後輩
+Dialogue: 0,0:12:14.11,0:12:15.58,Default,,0,0,0,,真沒意思啊
+Dialogue: 0,0:12:24.48,0:12:25.29,Default,,0,0,0,,熟記
+Dialogue: 0,0:12:25.78,0:12:28.17,Default,,0,0,0,,在背東西的時候所必須的是
+Dialogue: 0,0:12:28.33,0:12:30.34,Default,,0,0,0,,與基礎的知識相連
+Dialogue: 0,0:12:30.94,0:12:32.44,Default,,0,0,0,,無論是什麼人
+Dialogue: 0,0:12:32.70,0:12:35.92,Default,,0,0,0,,短期記憶所記下的情報都會很快忘記
+Dialogue: 0,0:12:37.00,0:12:39.39,Default,,0,0,0,,為了讓你們的學習變得有效果
+Dialogue: 0,0:12:39.72,0:12:43.47,Default,,0,0,0,,長期記憶 也就是需要想辦法將記憶留在深處
+Dialogue: 0,0:12:43.97,0:12:48.41,Default,,0,0,0,,將本就知道的知識和新的知識時刻關聯記憶
+Dialogue: 0,0:12:48.53,0:12:51.75,Default,,0,0,0,,就能更容易的形成長期記憶
+Dialogue: 0,0:12:52.35,0:12:54.00,Default,,0,0,0,,所以要把它放在心上…
+Dialogue: 0,0:13:00.39,0:13:01.27,Default,,0,0,0,,古橋
+Dialogue: 0,0:13:01.87,0:13:02.72,Default,,0,0,0,,古橋
+Dialogue: 0,0:13:09.97,0:13:12.23,Default,,0,0,0,,真期待明天的小測驗啊
+Dialogue: 0,0:13:12.48,0:13:13.50,Default,,0,0,0,,古橋同學
+Dialogue: 0,0:13:14.20,0:13:15.87,Default,,0,0,0,,萬分抱歉
+Dialogue: 0,0:13:18.57,0:13:20.20,Default,,0,0,0,,被訓了好一頓
+Dialogue: 0,0:13:20.80,0:13:23.83,Default,,0,0,0,,果然我是被老師討厭了嗎
+Dialogue: 0,0:13:24.08,0:13:26.12,Default,,0,0,0,,雖然是我不對
+Dialogue: 0,0:13:26.53,0:13:29.77,Default,,0,0,0,,沒 也進入下學期了
+Dialogue: 0,0:13:30.03,0:13:33.18,Default,,0,0,0,,我覺得那說不定是老師特有的關心
+Dialogue: 0,0:13:33.32,0:13:33.88,Default,,0,0,0,,大概
+Dialogue: 0,0:13:48.08,0:13:49.66,Default,,0,0,0,,編小測試的卷子
+Dialogue: 0,0:13:49.89,0:13:52.37,Default,,0,0,0,,比想像的還花時間
+Dialogue: 0,0:13:53.07,0:13:56.90,Default,,0,0,0,,明明最近睡眠不足 今天還想早點睡呢
+Dialogue: 0,0:13:57.62,0:13:58.81,Default,,0,0,0,,再加把勁吧
+Dialogue: 0,0:14:06.46,0:14:08.28,Default,,0,0,0,,電池 沒電了
+Dialogue: 0,0:14:09.20,0:14:11.65,Default,,0,0,0,,上次保存是什麼時候來著
+Dialogue: 0,0:14:25.77,0:14:28.12,Default,,0,0,0,,總覺得今天的桐須老師
+Dialogue: 0,0:14:28.52,0:14:30.45,Default,,0,0,0,,比往常還可怕得多
+Dialogue: 0,0:14:30.76,0:14:35.10,Default,,0,0,0,,有種不認真做小測驗就會被幹掉的威壓
+Dialogue: 0,0:14:35.39,0:14:37.05,Default,,0,0,0,,認真點 認真
+Dialogue: 0,0:15:00.97,0:15:02.20,Default,,0,0,0,,荒謬
+Dialogue: 0,0:15:02.40,0:15:05.42,Default,,0,0,0,,就算是通宵 身為老師居然打瞌睡
+Dialogue: 0,0:15:05.58,0:15:10.18,Default,,0,0,0,,而且明明在昨天還那樣訓斥過打瞌睡的古橋
+Dialogue: 0,0:15:12.64,0:15:16.22,Default,,0,0,0,,幸 幸好學生們都沒注意到的樣子
+Dialogue: 0,0:15:20.55,0:15:21.22,Default,,0,0,0,,暴露了
+Dialogue: 0,0:15:21.67,0:15:24.26,Default,,0,0,0,,不 還不能確定就是那樣
+Dialogue: 0,0:15:25.09,0:15:27.35,Default,,0,0,0,,老師 剛剛睡著了
+Dialogue: 0,0:15:33.66,0:15:35.27,Default,,0,0,0,,誰點了天婦羅烏龍麵拉麵
+Dialogue: 0,0:15:35.70,0:15:36.61,Default,,0,0,0,,是我
+Dialogue: 0,0:15:37.36,0:15:38.52,Default,,0,0,0,,朦朧
+Dialogue: 0,0:15:39.26,0:15:41.45,Default,,0,0,0,,感覺現在就要失去意識了
+Dialogue: 0,0:15:42.13,0:15:44.41,Default,,0,0,0,,還好下午只有普通的授課
+Dialogue: 0,0:15:44.68,0:15:46.96,Default,,0,0,0,,站著說話的話還能撐住
+Dialogue: 0,0:15:49.95,0:15:50.77,Default,,0,0,0,,桐須老師
+Dialogue: 0,0:15:50.87,0:15:52.29,Default,,0,0,0,,下午的事聽說了嗎
+Dialogue: 0,0:15:55.22,0:16:02.91,Default,,0,0,0,,正如現在 全校同學都一起升到了第二學期
+Dialogue: 0,0:16:03.21,0:16:05.54,Default,,0,0,0,,讓我甚感欣慰
+Dialogue: 0,0:16:06.12,0:16:11.23,Default,,0,0,0,,{\an8}也就是說啊 我老家有個森林
+Dialogue: 0,0:16:05.55,0:16:09.27,Default,,0,0,0,,突然把下午的課改為全校集會倒是無所謂
+Dialogue: 0,0:16:11.33,0:16:14.40,Default,,0,0,0,,{\an8}前幾天我還看到一大群戰神大兜蟲
+Dialogue: 0,0:16:09.68,0:16:11.96,Default,,0,0,0,,校長說話好長
+Dialogue: 0,0:16:12.31,0:16:14.32,Default,,0,0,0,,這都說了些什麼啊
+Dialogue: 0,0:16:14.81,0:16:19.74,Default,,0,0,0,,對生態造成了很大破壞 形成了很大的問題
+Dialogue: 0,0:16:20.05,0:16:21.25,Default,,0,0,0,,或者也沒有
+Dialogue: 0,0:16:22.62,0:16:24.56,Default,,0,0,0,,地 地獄
+Dialogue: 0,0:16:25.27,0:16:28.22,Default,,0,0,0,,保 保持清醒 真冬
+Dialogue: 0,0:16:28.57,0:16:31.55,Default,,0,0,0,,身為教師怎麼能不做好學生的模範
+Dialogue: 0,0:16:31.86,0:16:33.41,Default,,0,0,0,,僅僅是為了這個也要
+Dialogue: 0,0:16:38.46,0:16:41.96,Default,,0,0,0,,要 振作
+Dialogue: 0,0:16:47.13,0:16:49.81,Default,,0,0,0,,嚇死我了 沒事吧 成幸
+Dialogue: 0,0:16:50.33,0:16:52.54,Default,,0,0,0,,沒事 好像有點感冒
+Dialogue: 0,0:17:00.45,0:17:04.22,Default,,0,0,0,,總 總算是撐過這一天了
+Dialogue: 0,0:17:06.51,0:17:09.60,Default,,0,0,0,,全校集會的時候真是太險了
+Dialogue: 0,0:17:10.37,0:17:16.13,Default,,0,0,0,,唯我同學那個時候 難道說是在幫我嗎
+Dialogue: 0,0:17:17.64,0:17:19.61,Default,,0,0,0,,怎麼可能 想多了吧
+Dialogue: 0,0:17:24.07,0:17:24.96,Default,,0,0,0,,這不是真的吧
+Dialogue: 0,0:17:44.53,0:17:47.10,Default,,0,0,0,,那個 老師 在做什麼
+Dialogue: 0,0:17:47.34,0:17:48.67,Default,,0,0,0,,什麼也沒有
+Dialogue: 0,0:17:49.15,0:17:51.53,Default,,0,0,0,,怎麼會什麼也沒有做呢
+Dialogue: 0,0:17:53.80,0:17:57.05,Default,,0,0,0,,好像把家裡的鑰匙弄掉了
+Dialogue: 0,0:17:57.59,0:17:59.05,Default,,0,0,0,,但是馬上就會找到了
+Dialogue: 0,0:17:59.20,0:18:00.79,Default,,0,0,0,,你快回去學習吧
+Dialogue: 0,0:18:01.31,0:18:02.78,Default,,0,0,0,,好
+Dialogue: 0,0:18:06.26,0:18:09.48,Default,,0,0,0,,老師 果然您今天身體狀況不太好吧
+Dialogue: 0,0:18:10.56,0:18:12.40,Default,,0,0,0,,果然是什麼意思啊
+Dialogue: 0,0:18:41.17,0:18:43.00,Default,,0,0,0,,找不到啊
+Dialogue: 0,0:18:43.24,0:18:47.42,Default,,0,0,0,,嗯 平時都放在上衣口袋裡的
+Dialogue: 0,0:18:47.92,0:18:49.64,Default,,0,0,0,,丟到哪裡去了呀
+Dialogue: 0,0:18:54.88,0:18:56.26,Default,,0,0,0,,要不要再看看包裡
+Dialogue: 0,0:18:56.58,0:18:59.26,Default,,0,0,0,,確認一下是不是掉了
+Dialogue: 0,0:18:59.43,0:19:00.84,Default,,0,0,0,,真失禮
+Dialogue: 0,0:19:00.84,0:19:02.98,Default,,0,0,0,,包裡我已經找了好多次了
+Dialogue: 0,0:19:07.60,0:19:11.31,Default,,0,0,0,,老師 也不擅長整理提包對吧
+Dialogue: 0,0:19:11.74,0:19:13.93,Default,,0,0,0,,有必要帶這麼多東西嗎
+Dialogue: 0,0:19:14.01,0:19:14.83,Default,,0,0,0,,尖刻
+Dialogue: 0,0:19:15.22,0:19:18.29,Default,,0,0,0,,比如這個就是一個可以輕鬆製作溫泉蛋的好東西
+Dialogue: 0,0:19:18.44,0:19:19.50,Default,,0,0,0,,在家裡做啊
+Dialogue: 0,0:19:23.45,0:19:24.46,Default,,0,0,0,,這是什麼
+Dialogue: 0,0:19:24.75,0:19:26.26,Default,,0,0,0,,這個沒什麼關係
+Dialogue: 0,0:19:26.42,0:19:27.94,Default,,0,0,0,,是一個隨身碟包
+Dialogue: 0,0:19:29.21,0:19:30.11,Default,,0,0,0,,聽了不要吃驚
+Dialogue: 0,0:19:30.36,0:19:34.33,Default,,0,0,0,,它可以一次放六個隨身碟
+Dialogue: 0,0:19:48.11,0:19:51.01,Default,,0,0,0,,沒錯 那是早上我出門的時候
+Dialogue: 0,0:19:53.61,0:19:55.17,Default,,0,0,0,,太陽真刺眼啊
+Dialogue: 0,0:19:55.62,0:19:59.06,Default,,0,0,0,,不過小測試的題目總算是及時出好了
+Dialogue: 0,0:20:01.21,0:20:06.30,Default,,0,0,0,,放小測試題目的隨身碟 我有好好拿著的吧
+Dialogue: 0,0:20:06.90,0:20:08.79,Default,,0,0,0,,要是忘記帶了可不是鬧著玩的
+Dialogue: 0,0:20:10.63,0:20:11.42,Default,,0,0,0,,完美
+Dialogue: 0,0:20:11.92,0:20:14.71,Default,,0,0,0,,以防萬一 我拿在手上吧
+Dialogue: 0,0:20:26.42,0:20:30.90,Default,,0,0,0,,如你所見 毫無聯繫的短期記憶就是這麼不可靠
+Dialogue: 0,0:20:31.11,0:20:33.05,Default,,0,0,0,,您說得對 學到了
+Dialogue: 0,0:20:38.25,0:20:44.26,Default,,0,0,0,,那個 不好意思給你添麻煩了 唯我同學
+Dialogue: 0,0:20:44.64,0:20:47.59,Default,,0,0,0,,沒事 找到了就好了
+Dialogue: 0,0:20:48.23,0:20:49.35,Default,,0,0,0,,那我先走了
+Dialogue: 0,0:20:53.35,0:20:55.39,Default,,0,0,0,,喂 老師
+Dialogue: 0,0:20:55.81,0:20:57.80,Default,,0,0,0,,等等 欸
+Dialogue: 0,0:20:58.21,0:20:59.13,Default,,0,0,0,,睡著了
+Dialogue: 0,0:20:59.61,0:21:02.36,Default,,0,0,0,,老師 起碼堅持到床上啊
+Dialogue: 0,0:21:03.54,0:21:06.76,Default,,0,0,0,,{\an8}全校集會什麼就放過我吧
+Dialogue: 0,0:21:06.32,0:21:09.20,Default,,0,0,0,,完了 已經完全睡著了
+Dialogue: 0,0:21:13.56,0:21:16.71,Default,,0,0,0,,抱歉了老師 我失禮了
+Dialogue: 0,0:21:23.82,0:21:26.54,Default,,0,0,0,,比想像中的要苗條 很輕
+Dialogue: 0,0:21:28.39,0:21:30.14,Default,,0,0,0,,對不起
+Dialogue: 0,0:21:30.14,0:21:32.45,Default,,0,0,0,,我沒想什麼奇怪的事情
+Comment: 0,0:23:18.32,0:23:20.32,Default,,0,0,0,,-------------next------------
+Dialogue: 0,0:23:20.32,0:23:22.71,Default,,0,0,0,,雖然我沒有回家之後的記憶
+Dialogue: 0,0:23:23.54,0:23:25.77,Default,,0,0,0,,但我居然能自己回到床上
+Dialogue: 0,0:23:27.10,0:23:31.34,Default,,0,0,0,,而且我還能頂著睡意整理房間
+Dialogue: 0,0:23:32.05,0:23:33.18,Default,,0,0,0,,不愧是我
+Dialogue: 0,0:23:35.89,0:23:36.41,Default,,0,0,0,,下集
+Dialogue: 0,0:23:36.73,0:23:39.49,Default,,0,0,0,,天才為變換的季節與[X]而擔憂
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------opjp---------------
+Comment: 0,0:00:28.08,0:00:29.00,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz370\fscx150\fscy150\pos(30,676)}Can not？
+Dialogue: 0,0:00:28.08,0:00:28.12,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz370\fscx150\fscy150\pos(30,676)}Can not？
+Dialogue: 0,0:00:28.12,0:00:28.16,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz370\fscx150\fscy150\pos(32,675)}Can not？
+Dialogue: 0,0:00:28.16,0:00:28.21,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx150\fscy150\pos(86,526)}Can not？
+Dialogue: 0,0:00:28.21,0:00:28.25,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx150\fscy150\pos(87,525.8)}Can not？
+Dialogue: 0,0:00:28.25,0:00:28.29,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx140\fscy140\pos(155,435)}Can not？
+Dialogue: 0,0:00:28.29,0:00:28.33,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx139\fscy139\pos(155.5,434.5)}Can not？
+Dialogue: 0,0:00:28.33,0:00:28.37,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx150\fscy150\pos(175,398)}Can not？
+Dialogue: 0,0:00:28.37,0:00:28.41,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\frz370\fscx149\fscy149\pos(175.3,398.3)}Can not？
+Dialogue: 0,0:00:28.41,0:00:28.46,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\fay-0.22\fscx135\fscy135\pos(230,389)}Can not？
+Dialogue: 0,0:00:28.46,0:00:28.50,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.03\fay-0.22\fscx134.5\fscy134.5\pos(232,389.5)}Can not？
+Dialogue: 0,0:00:28.50,0:00:28.54,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.1\fay-0.22\frx13\fscx148\fscy148\pos(260,360)}Can not？
+Dialogue: 0,0:00:28.54,0:00:28.58,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.1\fay-0.22\frx13\fscx147\fscy147\pos(260.5,360.5)}Can not？
+Dialogue: 0,0:00:28.58,0:00:28.62,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\frx16\fry350\frz371\fscx140\fscy140\pos(344,310)}Can not？
+Dialogue: 0,0:00:28.62,0:00:28.67,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\frx16\fry350\frz371\fscx139\fscy139\pos(344,310)}Can not？
+Dialogue: 0,0:00:28.67,0:00:28.71,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\frx16\fry350\frz371\fscx130\fscy130\pos(381,285)}Can not？
+Dialogue: 0,0:00:28.71,0:00:28.75,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\frx16\fry350\frz371\fscx129.5\fscy129.5\pos(381,285.2)}Can not？
+Dialogue: 0,0:00:28.75,0:00:28.79,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx16\fry350\frz371\fscx129.5\fscy129.5\pos(413,277)}Can not？
+Dialogue: 0,0:00:28.79,0:00:28.83,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx16\fry350\frz371\fscx128\fscy128\pos(413,277)}Can not？
+Dialogue: 0,0:00:28.83,0:00:28.87,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx19\fry350\frz371\fscx128\fscy128\pos(452,259)}Can not？
+Dialogue: 0,0:00:28.87,0:00:28.92,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx19\fry350\frz371\fscx127\fscy127\pos(452,259)}Can not？
+Dialogue: 0,0:00:28.92,0:00:28.96,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx19\fry350\frz371\fscx126\fscy126\pos(452,259)}Can not？
+Comment: 0,0:00:29.17,0:00:29.83,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fax-0.4\fay-0.02\frx19\fry350\frz371\fscx125\fscy125\pos(862.667,518.556)}Can not？
+Dialogue: 0,0:00:29.17,0:00:29.21,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx200\fscy200\frz17.5\pos(1083,742)}Can not？
+Dialogue: 0,0:00:29.25,0:00:29.29,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx200\fscy200\frz29\pos(1100,542)}Can not？
+Dialogue: 0,0:00:29.29,0:00:29.33,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx200\fscy200\frz29\pos(1100,541)}Can not？
+Dialogue: 0,0:00:29.33,0:00:29.37,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx200\fscy200\frz37\pos(970.222,436.111)}Can not？
+Dialogue: 0,0:00:29.37,0:00:29.42,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx199\fscy199\frz37\pos(970.222,436.111)}Can not？
+Dialogue: 0,0:00:29.42,0:00:29.46,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx199\fscy199\frz41\pos(925,375)}Can not？
+Dialogue: 0,0:00:29.46,0:00:29.50,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx198\fscy198\frz41\pos(925,375)}Can not？
+Dialogue: 0,0:00:29.50,0:00:29.54,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx198\fscy198\frz45\pos(853,330)}Can not？
+Dialogue: 0,0:00:29.54,0:00:29.58,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx197\fscy197\frz45\pos(853,330)}Can not？
+Dialogue: 0,0:00:29.58,0:00:29.62,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx197\fscy197\frz47\pos(842,320)}Can not？
+Dialogue: 0,0:00:29.62,0:00:29.67,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx196\fscy196\frz47\pos(842,320)}Can not？
+Dialogue: 0,0:00:29.67,0:00:29.71,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx196\fscy196\frz49\pos(835,312)}Can not？
+Dialogue: 0,0:00:29.71,0:00:29.75,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx195\fscy195\frz49\pos(835,312)}Can not？
+Dialogue: 0,0:00:29.75,0:00:29.79,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx194\fscy194\frz49\pos(835,312)}Can not？
+Dialogue: 0,0:00:29.79,0:00:29.83,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx193\fscy193\frz49\pos(835,312)}Can not？
+Comment: 0,0:00:28.58,0:00:30.04,OPCH,,0,0,0,,{\1c&H413C46&\bord0\fax-0.4\frx16\fry32030\frz370\fscx150\fscy150\fn华康翩翩体W5-A\b1\pos(310.312,394.511)}不會?
+Comment: 0,0:00:28.58,0:00:30.04,OPJP,,0,0,0,,{\pos(344.889,310.667)\1c&H5F5A64&\bord0\frz12.41}Can not？Can not？
+Dialogue: 1,0:00:30.12,0:00:31.50,OPJP,,0,0,0,,{\1c&HF5AA87&\clip(0,650,622,700)\move(400,700,640,700,0,1000)}出来ないの？
+Dialogue: 0,0:00:30.12,0:00:31.50,OPJP,,0,0,0,,{\1c&H9678DC&\iclip(0,650,622,700)\move(880,700,640,700,0,1000)}出来ないの？
+Dialogue: 0,0:00:31.46,0:00:31.50,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fax0.38\frx10\frz338.6\pos(308,378)}Can now!
+Dialogue: 0,0:00:31.50,0:00:31.54,OPJP,,0,0,0,,{\1c&H505050&\bord0\frx10\fnFOT-NewCezanne ProN EB\fax0.38\frx10\frz338.6\pos(310,378)}Can now!
+Dialogue: 0,0:00:31.54,0:00:31.58,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fax0.18\frx10\frz349.2\pos(293,349)}Can now!
+Dialogue: 0,0:00:31.58,0:00:31.63,OPJP,,0,0,0,,{\1c&H505050&\bord0\fax0.18\fnFOT-NewCezanne ProN EB\frx10\frz348.5\pos(295,350)}Can now!
+Dialogue: 0,0:00:31.63,0:00:31.67,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fax0.13\frz354\pos(295,342)}Can now!
+Dialogue: 0,0:00:31.67,0:00:31.71,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fax0.13\frz354\fscx99\fscy99\pos(295,342)}Can now!
+Dialogue: 0,0:00:31.71,0:00:31.75,OPJP,,0,0,0,,{\1c&H505050&\bord0\fax0.1\fnFOT-NewCezanne ProN EB\fscx99\fscy99\pos(290,333)\frz357}Can now!
+Dialogue: 0,0:00:31.75,0:00:31.79,OPJP,,0,0,0,,{\1c&H505050&\bord0\fax0.12\fnFOT-NewCezanne ProN EB\fscx97\fscy97\pos(290,333)\frz357}Can now!
+Dialogue: 0,0:00:31.79,0:00:31.83,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx97\fscy97\frz3.8\pos(277,311)}Can now!
+Dialogue: 0,0:00:31.83,0:00:31.88,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx96\fscy96\frz3.8\pos(278,311)}Can now!
+Dialogue: 0,0:00:31.88,0:00:31.92,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx96\fscy96\frz8.2\pos(270,298)}Can now!
+Dialogue: 0,0:00:31.92,0:00:31.96,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx96\fscy96\frz8.2\pos(272,298)}Can now!
+Dialogue: 0,0:00:31.96,0:00:32.00,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx96\fscy96\pos(258,288)\frz10.17}Can now!
+Dialogue: 0,0:00:32.00,0:00:32.04,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx95\fscy95\pos(258,289)\frz10.17}Can now!
+Dialogue: 0,0:00:32.04,0:00:32.09,OPJP,,0,0,0,,{\1c&H505050&\bord0\fnFOT-NewCezanne ProN EB\fscx93\fscy93\frx10\frz11.85\pos(240,277.5)}Can now!
+Comment: 0,0:00:31.58,0:00:32.09,OPJP,,0,0,0,,{\1c&H505050&\bord0\frz350\pos(303,355)}Can now!
+Dialogue: 0,0:00:32.17,0:00:32.21,OPJP,,0,0,0,,{\1c&H505050&\bord0\fay-0.4\pos(1155,766)}Can now!
+Dialogue: 0,0:00:32.21,0:00:32.25,OPJP,,0,0,0,,{\1c&H505050&\bord0\fay-0.4\pos(1152,764)}Can now!
+Dialogue: 0,0:00:32.25,0:00:32.29,OPJP,,0,0,0,,{\1c&H505050&\bord0\fay-0.38\pos(1003,588)}Can now!
+Dialogue: 0,0:00:32.29,0:00:32.34,OPJP,,0,0,0,,{\1c&H505050&\bord0\fay-0.38\fscx99\fscy99\pos(1003,588)}Can now!
+Dialogue: 0,0:00:32.34,0:00:32.38,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx99\fscy99\frz19\pos(901.667,348)}Can now!
+Dialogue: 0,0:00:32.38,0:00:32.42,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx98\fscy98\frz19\pos(901.667,348)}Can now!
+Dialogue: 0,0:00:32.42,0:00:32.46,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx98\fscy98\frx5\frz19\pos(837.667,294.667)}Can now!
+Dialogue: 0,0:00:32.46,0:00:32.50,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx97\fscy97\frx5\frz19\pos(837.667,294.667)}Can now!
+Dialogue: 0,0:00:32.50,0:00:32.54,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx97\fscy97\frx10\frz19\pos(798,268)}Can now!
+Dialogue: 0,0:00:32.54,0:00:32.59,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx96\fscy96\frx10\frz19\pos(798,268)}Can now!
+Dialogue: 0,0:00:32.59,0:00:32.63,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx96\fscy96\frx13\frz19\pos(759,240)}Can now!
+Dialogue: 0,0:00:32.63,0:00:32.67,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx95\fscy95\frx13\frz19\pos(759,240)}Can now!
+Dialogue: 0,0:00:32.67,0:00:32.71,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx95\fscy95\frx13\frz19\pos(755,235)}Can now!
+Dialogue: 0,0:00:32.71,0:00:32.75,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx94\fscy94\frx13\frz19\pos(755,235)}Can now!
+Dialogue: 0,0:00:32.75,0:00:32.79,OPJP,,0,0,0,,{\1c&H505050&\bord0\fscx94\fscy94\frx13\frz19\pos(750,228)}Can now!
+Comment: 0,0:00:31.58,0:00:33.00,OPJP,,0,0,0,,Can now！Can now！
+Dialogue: 1,0:00:33.00,0:00:34.38,OPJP,,0,0,0,,{\1c&HE696C8&\clip(0,650,640,700)\move(400,700,640,700,0,1000)}信じれば
+Dialogue: 0,0:00:33.00,0:00:34.38,OPJP,,0,0,0,,{\1c&HAAB9EB&\iclip(0,650,640,700)\move(880,700,640,700,0,1000)}信じれば
+Comment: 0,0:00:34.55,0:00:38.84,OPCH,,0,0,0,,因為是你寫出的答案
+Dialogue: 0,0:00:34.55,0:00:34.59,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz338\pos(1108,718)}君から出した答えだから
+Dialogue: 0,0:00:34.59,0:00:34.63,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz338\pos(1106,716)}君から出した答えだから
+Dialogue: 0,0:00:34.63,0:00:34.67,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz15.31\pos(988,500)}君から出した答えだから
+Dialogue: 0,0:00:34.67,0:00:34.71,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz15.31\pos(986,499)}君から出した答えだから
+Dialogue: 0,0:00:34.71,0:00:34.75,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz23\pos(864,309)}君から出した答えだから
+Dialogue: 0,0:00:34.75,0:00:34.80,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz23\fscx99\fscy99\pos(864,309)}君から出した答えだから
+Dialogue: 0,0:00:34.80,0:00:34.84,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz30.5\fscx99\fscy99\pos(828.444,266.667)}君から出した答えだから
+Dialogue: 0,0:00:34.84,0:00:34.88,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\frz30.5\fscx98\fscy98\pos(828.444,266.667)}君から出した答えだから
+Dialogue: 0,0:00:34.88,0:00:34.92,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx98\fscy98\frz33.5\pos(789,222)}君から出した答えだから
+Dialogue: 0,0:00:34.92,0:00:34.96,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx97\fscy97\frz33.5\pos(789,222)}君から出した答えだから
+Dialogue: 0,0:00:34.96,0:00:35.00,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx97\fscy97\frz39.6\pos(753,175)}君から出した答えだから
+Dialogue: 0,0:00:35.00,0:00:35.05,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx96\fscy96\frz39.6\pos(753,175)}君から出した答えだから
+Dialogue: 0,0:00:35.05,0:00:35.09,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx96\fscy96\frz44\pos(708.556,135.888)}君から出した答えだから
+Dialogue: 0,0:00:35.09,0:00:35.13,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx95\fscy95\frz44\pos(708.556,135.888)}君から出した答えだから
+Dialogue: 0,0:00:35.13,0:00:35.17,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx95\fscy95\frz46\pos(697.889,135.888)}君から出した答えだから
+Dialogue: 0,0:00:35.17,0:00:35.21,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx94\fscy94\frz46\pos(697.889,135.888)}君から出した答えだから
+Dialogue: 0,0:00:35.21,0:00:35.25,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx94\fscy94\frz50\pos(689,134.11)}君から出した答えだから
+Dialogue: 0,0:00:35.34,0:00:35.42,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fscx94\fscy94\frz13.05\pos(1105,735)}君から出した答えだから
+Dialogue: 0,0:00:35.42,0:00:35.51,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.3\fscx94\fscy94\frz17.7\pos(1069,597)}君から出した答えだから
+Dialogue: 0,0:00:35.51,0:00:35.59,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.4\fscx94\fscy94\pos(937,433)\frz23}君から出した答えだから
+Dialogue: 0,0:00:35.59,0:00:35.67,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.4\fscx94\fscy94\frz23.02\pos(852,363)}君から出した答えだから
+Dialogue: 0,0:00:35.67,0:00:35.76,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz20.53\pos(777,304)}君から出した答えだから
+Dialogue: 0,0:00:35.76,0:00:35.84,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz23.23\pos(700,272)}君から出した答えだから
+Dialogue: 0,0:00:35.84,0:00:35.92,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz25.05\pos(685,258)}君から出した答えだから
+Dialogue: 0,0:00:35.92,0:00:38.55,OPJP,,0,0,0,,{\1c&HCDB9F5&}君から出した答えだから
+Comment: 0,0:00:34.38,0:00:38.84,OPJP,,0,0,0,,君から出した答えだから
+Dialogue: 0,0:00:38.55,0:00:41.64,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-TsukuMin Pr6N E\frz-90\pos(800,400)}笑顔で受け取るよ
+Dialogue: 0,0:00:41.64,0:00:42.76,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-ModeMinALarge ProN B\frz-90\fs50\pos(330,530)}A to Z の方程式
+Dialogue: 0,0:00:42.76,0:00:42.80,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-ModeMinALarge ProN B\frz-90\fs50\pos(330,555)}A to Z の方程式
+Dialogue: 0,0:00:42.80,0:00:42.85,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-ModeMinALarge ProN B\frz-90\fs50\pos(330,621)}A to Z の方程式
+Dialogue: 0,0:00:42.85,0:00:42.89,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-ModeMinALarge ProN B\frz-90\fs50\pos(330,719)}A to Z の方程式
+Dialogue: 0,0:00:42.89,0:00:42.93,OPJP,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@FOT-ModeMinALarge ProN B\frz-90\fs50\pos(330,833)}A to Z の方程式
+Dialogue: 0,0:00:41.64,0:00:42.76,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正正中黑_GBK\frz-90\fs40\pos(423,535)}A到Z的方程式
+Dialogue: 0,0:00:42.76,0:00:42.80,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正正中黑_GBK\frz-90\fs40\pos(423,560)}A到Z的方程式
+Dialogue: 0,0:00:42.80,0:00:42.85,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正正中黑_GBK\frz-90\fs40\pos(423,626)}A到Z的方程式
+Dialogue: 0,0:00:42.85,0:00:42.89,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正正中黑_GBK\frz-90\fs40\pos(423,724)}A到Z的方程式
+Dialogue: 0,0:00:42.89,0:00:42.93,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正正中黑_GBK\frz-90\fs40\pos(423,838)}A到Z的方程式
+Dialogue: 0,0:00:43.55,0:00:46.22,OPJP,,0,0,0,,{\1c&HF5AA87&}知ら{\1c&HAAB9EB&}ない{\1c&H9678DC&}世界
+Dialogue: 0,0:00:46.10,0:00:50.40,OPJP,,0,0,0,,{\1c&H000000&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx95\fscy95)\blur1.5\bord0\move(633,132,638,142)\frz15.93}春夏秋冬の中で
+Dialogue: 0,0:00:50.40,0:00:53.36,OPJP,,0,0,0,,{\1c&H8C8C8C&\blur1.5\bord0\move(850,108,815,108)\frz34}あとどれくらい
+Dialogue: 0,0:00:53.36,0:00:54.48,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(739,578)}一緒に泣いて
+Dialogue: 0,0:00:54.48,0:00:54.57,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(739,578)\iclip(m 713 552 l 712 579 792 552 755 536)}一緒に泣いて
+Dialogue: 0,0:00:54.57,0:00:54.65,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(739,578)\iclip(m 653 570 l 678 564 712 584 664 595)}一緒に泣いて
+Dialogue: 0,0:00:54.65,0:00:55.07,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(739,578)}一緒に泣いて
+Dialogue: 0,0:00:55.07,0:00:55.11,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(738,575)}一緒に泣いて
+Dialogue: 0,0:00:55.11,0:00:55.15,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(735,567)}一緒に泣いて
+Dialogue: 0,0:00:55.15,0:00:55.19,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(731,554)}一緒に泣いて
+Dialogue: 0,0:00:55.19,0:00:55.23,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(727,541)\iclip(m 637 538 l 730 509 757 532 657 561)}一緒に泣いて
+Dialogue: 0,0:00:55.23,0:00:55.27,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(722,525)\iclip(m 640 520 l 713 497 740 517 647 547)}一緒に泣いて
+Dialogue: 0,0:00:55.27,0:00:55.32,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(716,508)\iclip(m 689 480 l 774 452 784 478 704 506)}一緒に泣いて
+Dialogue: 0,0:00:55.32,0:00:55.36,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(711,490)\iclip(m 624 483 l 691 460 699 485 636 506)}一緒に泣いて
+Dialogue: 0,0:00:55.36,0:00:55.40,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(706,467)\iclip(m 643 453 l 764 413 770 438 648 479)}一緒に泣いて
+Dialogue: 0,0:00:55.40,0:00:55.44,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(697,445)\iclip(m 638 430 l 757 390 763 416 644 455)}一緒に泣いて
+Dialogue: 0,0:00:55.44,0:00:55.48,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx75\fscy75\pos(689,420)\iclip(m 729 375 l 754 366 759 387 734 397)}一緒に泣いて
+Dialogue: 0,0:00:55.48,0:00:55.53,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(666,403)}一緒に泣いて
+Dialogue: 0,0:00:55.53,0:00:55.57,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(653,361)}一緒に泣いて
+Dialogue: 0,0:00:55.57,0:00:55.61,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(639,317)}一緒に泣いて
+Dialogue: 0,0:00:55.61,0:00:55.65,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(624,271)}一緒に泣いて
+Dialogue: 0,0:00:55.65,0:00:55.69,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(609,225)}一緒に泣いて
+Dialogue: 0,0:00:55.69,0:00:55.73,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(594,179)}一緒に泣いて
+Dialogue: 0,0:00:55.73,0:00:55.78,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(579,133)}一緒に泣いて
+Dialogue: 0,0:00:55.78,0:00:55.82,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx119\fscy119\iclip(m 729 375 l 754 366 759 387 734 397)\pos(562,77)}一緒に泣いて
+Dialogue: 0,0:00:55.48,0:00:55.53,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(812,729)}笑い合えるかな
+Dialogue: 0,0:00:55.53,0:00:55.57,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(797,687)}笑い合えるかな
+Dialogue: 0,0:00:55.57,0:00:55.61,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(782,643)}笑い合えるかな
+Dialogue: 0,0:00:55.61,0:00:55.65,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(767,599)}笑い合えるかな
+Dialogue: 0,0:00:55.65,0:00:55.69,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(752,553)}笑い合えるかな
+Dialogue: 0,0:00:55.69,0:00:55.73,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(737,505)}笑い合えるかな
+Dialogue: 0,0:00:55.73,0:00:55.78,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(722,457)}笑い合えるかな
+Dialogue: 0,0:00:55.78,0:00:55.82,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(705,407)}笑い合えるかな
+Dialogue: 0,0:00:55.82,0:00:55.86,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(688,355)}笑い合えるかな
+Dialogue: 0,0:00:55.86,0:00:55.90,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(671,303)}笑い合えるかな
+Dialogue: 0,0:00:55.90,0:00:58.24,OPJP,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fnFOT-UDMarugo_Large Pr6N M\frz18\fscx90\fscy90\pos(653,249)}笑い合えるかな
+Dialogue: 0,0:00:58.24,0:01:01.99,OPJP,,0,0,0,,{\1c&H5F5A64&\fn@DFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\move(86,474,164,436)\frz289}それぞれ選ぶ道が
+Dialogue: 0,0:01:01.99,0:01:04.83,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\move(315,465,458,465)}間違いじゃなかったら
+Dialogue: 0,0:01:04.83,0:01:04.87,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(461,465)}間違いじゃなかったら
+Dialogue: 0,0:01:04.87,0:01:04.91,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(465,466)}間違いじゃなかったら
+Dialogue: 0,0:01:04.91,0:01:04.95,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(470,467)}間違いじゃなかったら
+Dialogue: 0,0:01:04.95,0:01:04.99,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(477,467.3)}間違いじゃなかったら
+Dialogue: 0,0:01:04.99,0:01:05.03,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(486,468)}間違いじゃなかったら
+Dialogue: 0,0:01:05.03,0:01:05.08,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(499,469)}間違いじゃなかったら
+Dialogue: 0,0:01:05.08,0:01:05.12,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(516,471)}間違いじゃなかったら
+Dialogue: 0,0:01:05.12,0:01:05.16,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(540,473)}間違いじゃなかったら
+Dialogue: 0,0:01:05.16,0:01:05.20,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(571,475)}間違いじゃなかったら
+Dialogue: 0,0:01:05.20,0:01:05.24,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(611,479)}間違いじゃなかったら
+Dialogue: 0,0:01:05.24,0:01:05.28,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(662,482)}間違いじゃなかったら
+Dialogue: 0,0:01:05.28,0:01:05.33,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(724,485)}間違いじゃなかったら
+Dialogue: 0,0:01:05.33,0:01:05.37,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(796,487)}間違いじゃなかったら
+Dialogue: 0,0:01:05.37,0:01:05.41,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(876,488)}間違いじゃなかったら
+Dialogue: 0,0:01:05.41,0:01:05.45,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(961,487)}間違いじゃなかったら
+Dialogue: 0,0:01:05.45,0:01:05.49,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1050,483)}間違いじゃなかったら
+Dialogue: 0,0:01:05.49,0:01:05.54,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1140,476)}間違いじゃなかったら
+Dialogue: 0,0:01:05.54,0:01:05.58,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1232,465)}間違いじゃなかったら
+Dialogue: 0,0:01:05.58,0:01:05.62,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1322,447)}間違いじゃなかったら
+Dialogue: 0,0:01:05.62,0:01:05.66,OPJP,,0,0,0,,{\1c&H5F5A64&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1411,424)}間違いじゃなかったら
+Comment: 0,0:01:02.57,0:01:05.95,OPJP,,0,0,0,,間違いじゃなかったら
+Comment: 0,0:01:02.57,0:01:05.95,OPJP,,0,0,0,,間違いじゃなかったら
+Dialogue: 0,0:01:06.08,0:01:09.50,OPJP,,0,0,0,,{\1c&H000000&\bord0}答え合わせしよう
+Dialogue: 0,0:01:10.33,0:01:13.67,OPJP,,0,0,0,,{\1c&H2C2C65&\bord0\fnDFPHanziPen-W3}少し遅すぎた成長期
+Dialogue: 0,0:01:13.79,0:01:16.63,OPJP,,0,0,0,,{\1c&HFFFFFF&\3c&H916955&\bord3\fnFOT-Yuruka Std UB}大器晩成な日々
+Dialogue: 0,0:01:16.80,0:01:21.43,OPJP,,0,0,0,,{\1c&HFFFFFF&\bord0\fnDFPHanziPen-W3\pos(640,701.067)}{\1c&HEB82C3&}刻まれ{\1c&HEBBE8C&}ていく{\1c&H87C8EB&}成長の{\1cH9682EB&}グラフ
+Dialogue: 1,0:01:21.93,0:01:27.77,OPJP,,0,0,0,,{\1c&H000000&\3c&H916955&\bord0\fnFOT-NewRodin ProN EB\move(640,700,1760,400,5434,5870)}全てが正解な答えなんかなくても
+Dialogue: 0,0:01:21.93,0:01:27.77,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H000000&\blur1\bord2\fscx120\fscy15\p1\move(520,705,1640,405,5434,5870)}m 214 52 l 219 35 234 50 262 65 276 60 269 42 306 63 348 72 438 60 521 32 521 46 532 58 543 59 552 53 556 62 568 62 595 52 620 29 615 54 617 73 624 73 639 67 636 87 639 100 654 105 665 104 648 136 636 176 630 228 634 286 641 320 654 350 635 352 630 361 633 384 651 427 626 415 610 416 598 422 592 434 590 446 576 432 562 426 554 442 550 453 550 469 521 452 483 440 441 433 376 429 320 432 277 439 249 452 247 439 239 429 232 427 222 434 218 426 206 425 205 415 198 410 173 406 140 405 104 414 128 381 144 350 134 348 110 355 112 339 110 334 130 312 140 297 92 296 108 279 109 269 104 264 98 263 106 237 110 212 107 194 86 171 101 168 110 156 108 145 114 142 112 135 124 116 117 73 107 61 142 73 182 74 206 63\N
+Comment: 1,0:01:27.97,0:01:31.10,OPJP,,0,0,0,,{\1c&H000000&\bord0}積み重ねてきた毎日が{\1a&HFF&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Comment: 1,0:01:31.10,0:01:31.60,OPJP,,0,0,0,,{\1c&H000000&\bord0\move(640,700,1740,818)}積み重ねてきた毎日が{\1a&HFF&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Comment: 0,0:01:29.52,0:01:29.60,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:29.60,0:01:29.68,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 451 705)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:29.68,0:01:29.77,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:29.77,0:01:29.85,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:29.85,0:01:29.93,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638 442 638)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:29.93,0:01:30.02,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638 442 638 585 640)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:30.02,0:01:31.10,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 679 696 l 648 709 575 712 290 706 272 662 311 638 442 638 585 640 678 644)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:31.10,0:01:31.60,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\move(660,720,1760,838)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 2,0:01:27.97,0:01:32.77,OPJP,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0}積み重ねてきた毎日が{\1a&H00&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Comment: 0,0:01:31.85,0:01:32.77,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\pos(985,720)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 2,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0\move(640,700,865,768)}積み重ねてきた毎日が{\1a&H00&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Comment: 0,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\move(985,720,1220,788)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 1,0:01:34.06,0:01:35.52,OPJP,,0,0,0,,{\1c&H000000&\bord0\fnFOT-UDMarugo_Large Pr6N M}今まで何回だって難問を乗り越えて来たでしょ？
+Dialogue: 1,0:01:35.52,0:01:40.36,OPJP,,0,0,0,,{\1c&H000000&\bord0\fnFOT-UDMarugo_Large Pr6N M\move(640,700,1680,700,4378,4840)}今まで何回だって難問を乗り越えて来たでしょ？
+Dialogue: 0,0:01:35.52,0:01:40.36,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx3800\fscy230\p1\move(1015,720,2055,720,4378,4840)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:34.06,0:01:40.36,OPJP,,0,0,0,,{\1c&H000000&\bord0\fnFOT-UDMarugo_Large Pr6N M}今まで何回だって難問を乗り越えて来たでしょ？
+Dialogue: 0,0:01:40.57,0:01:41.99,OPJP,,0,0,0,,{\1c&H968CB4&\t(724,724,\1c&H9678DC&)}Can n{\1c&H968CB4&\t(724,724,\1c&HAAB9EB&)}ow！Can {\1c&H968CB4&\t(724,724,\1c&HF5AA87&)}now！
+Dialogue: 0,0:01:42.07,0:01:43.49,OPJP,,0,0,0,,{\1c&HE696C8&}きっと{\1c&HCDB9F5&}叶う
+Dialogue: 0,0:01:43.49,0:01:45.37,OPJP,,0,0,0,,{\1c&HCDB9F5&}だから{\1c&H9678DC&}一緒に{\1c&HAAB9EB&)}前を{\1c&H968CB4&}向いて{\1c&HF5AA87&)}こう　{\1c&HE696C8&}Ah
+Dialogue: 0,0:01:45.37,0:01:47.95,OPJP,,0,0,0,,{\1c&HD7645A&\bord0\fnFOT-UDMarugo_Large Pr6N DB}だから一緒に前を向いてこう　Ah
+Dialogue: 0,0:01:47.95,0:01:51.04,OPJP,,0,0,0,,{\1a&HFF&\bord1.5}だから一緒に前を向いてこう　Ah
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,---------------opch---------------
+Dialogue: 0,0:00:28.16,0:00:28.21,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\frx16\fry370\frz370\fscx150\fscy150\fn华康翩翩体W5-A\b1\pos(108,635)}不會?
+Dialogue: 0,0:00:28.21,0:00:28.25,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\frx16\fry370\frz370\fscx149\fscy149\fn华康翩翩体W5-A\b1\pos(109,635)}不會?
+Dialogue: 0,0:00:28.25,0:00:28.29,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fscx149\fscy149\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(167,543)}不會?
+Dialogue: 0,0:00:28.29,0:00:28.33,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fscx147\fscy147\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(170,543)}不會?
+Dialogue: 0,0:00:28.33,0:00:28.37,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fscx147\fscy147\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(182,522)}不會?
+Dialogue: 0,0:00:28.37,0:00:28.41,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fscx147\fscy147\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(183,521)}不會?
+Dialogue: 0,0:00:28.41,0:00:28.46,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.18\fscx147\fscy147\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(240,465)}不會?
+Dialogue: 0,0:00:28.46,0:00:28.50,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.18\fscx145\fscy145\fn华康翩翩体W5-A\b1\frx16\fry358\frz9\pos(240,465)}不會?
+Dialogue: 0,0:00:28.50,0:00:28.54,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx145\fscy145\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(250,407)}不會?
+Dialogue: 0,0:00:28.54,0:00:28.58,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx144\fscy144\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(250,407)}不會?
+Dialogue: 0,0:00:28.58,0:00:28.62,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx144\fscy144\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(310,396)}不會?
+Dialogue: 0,0:00:28.62,0:00:28.67,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx143\fscy143\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(311,396)}不會?
+Dialogue: 0,0:00:28.67,0:00:28.71,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx140\fscy140\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(342,362)}不會?
+Dialogue: 0,0:00:28.71,0:00:28.75,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx138\fscy138\fn华康翩翩体W5-A\b1\frx20\fry358\frz9\pos(342,362)}不會?
+Dialogue: 0,0:00:28.75,0:00:28.79,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx138\fscy138\fn华康翩翩体W5-A\b1\frx30\fry358\frz9\pos(370,348)}不會?
+Dialogue: 0,0:00:28.79,0:00:28.83,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fscx136.5\fscy136.5\fn华康翩翩体W5-A\b1\frx30\fry358\frz9\pos(370,348)}不會?
+Dialogue: 0,0:00:28.83,0:00:28.87,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fay-0.1\fscx136.5\fscy136.5\fn华康翩翩体W5-A\b1\frx30\fry358\frz9\pos(402,328)}不會?
+Dialogue: 0,0:00:28.87,0:00:28.92,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fay-0.1\fscx135\fscy135\fn华康翩翩体W5-A\b1\frx30\fry358\frz9\pos(402,328)}不會?
+Dialogue: 0,0:00:28.92,0:00:28.96,OPCH,待做,0,0,0,,{\1c&H413C46&\bord0\fax-0.38\fay-0.1\fscx133\fscy133\fn华康翩翩体W5-A\b1\frx30\fry358\frz9\pos(402,328)}不會?
+Dialogue: 0,0:00:29.25,0:00:29.29,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx130\fscy130\fn方正中粗雅宋_GBK\frz29\pos(1147,597)}不会？
+Dialogue: 0,0:00:29.29,0:00:29.33,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx130\fscy130\fn方正中粗雅宋_GBK\frz29\pos(1147,596)}不会？
+Dialogue: 0,0:00:29.33,0:00:29.37,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx130\fscy130\fn方正中粗雅宋_GBK\frz39\pos(1028,485)}不会？
+Dialogue: 0,0:00:29.37,0:00:29.42,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx129\fscy129\fn方正中粗雅宋_GBK\frz39\pos(1028,485)}不会？
+Dialogue: 0,0:00:29.42,0:00:29.46,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx129\fscy129\fn方正中粗雅宋_GBK\frz41\pos(985,426)}不会？
+Dialogue: 0,0:00:29.46,0:00:29.50,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx128\fscy128\fn方正中粗雅宋_GBK\frz41\pos(985,426)}不会？
+Dialogue: 0,0:00:29.50,0:00:29.54,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx128\fscy128\fn方正中粗雅宋_GBK\frz45\pos(916,378)}不会？
+Dialogue: 0,0:00:29.54,0:00:29.58,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx127\fscy127\fn方正中粗雅宋_GBK\frz45\pos(916,378)}不会？
+Dialogue: 0,0:00:29.58,0:00:29.62,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx127\fscy127\fn方正中粗雅宋_GBK\frz47\pos(907.111,367.333)}不会？
+Dialogue: 0,0:00:29.62,0:00:29.67,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx127\fscy127\fn方正中粗雅宋_GBK\frz47\pos(907.111,367.333)}不会？
+Dialogue: 0,0:00:29.67,0:00:29.71,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx127\fscy127\fn方正中粗雅宋_GBK\frz49\pos(900,358)}不会？
+Dialogue: 0,0:00:29.71,0:00:29.75,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx126\fscy126\fn方正中粗雅宋_GBK\frz49\pos(900,358)}不会？
+Dialogue: 0,0:00:29.75,0:00:29.79,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx125\fscy125\fn方正中粗雅宋_GBK\frz49\pos(900,358)}不会？
+Dialogue: 0,0:00:29.79,0:00:29.83,OPJP,,0,0,0,,{\1c&H5F5A64&\bord0\fscx124\fscy124\fn方正中粗雅宋_GBK\frz49\pos(900,358)}不会？
+Dialogue: 1,0:00:30.12,0:00:31.50,OPCH,,0,0,0,,{\1c&HF5AA87&\clip(0,10,622,60)\move(400,18,640,18,0,1000)}做不出來嗎?
+Dialogue: 0,0:00:30.12,0:00:31.50,OPCH,,0,0,0,,{\1c&H9678DC&\iclip(0,10,622,60)\move(880,18,640,18,0,1000)}做不出來嗎?
+Dialogue: 0,0:00:31.46,0:00:31.50,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.38\frx10\frz338.6\fscx120\fscy120\pos(330,387)}能的!
+Dialogue: 0,0:00:31.50,0:00:31.54,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.38\frx10\frz338.6\fscx120\fscy120\pos(331.5,386.5)}能的!
+Dialogue: 0,0:00:31.54,0:00:31.58,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.18\frx10\frz349.2\fscx120\fscy120\pos(305,350)}能的!
+Dialogue: 0,0:00:31.58,0:00:31.63,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.18\frx10\frz349.2\fscx120\fscy120\pos(305,350)}能的!
+Dialogue: 0,0:00:31.63,0:00:31.67,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.1\frx10\fscx120\fscy120\frz355.8\pos(301,342)}能的!
+Dialogue: 0,0:00:31.67,0:00:31.71,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.1\frx10\fscx119\fscy119\frz355.8\pos(301,342)}能的!
+Dialogue: 0,0:00:31.71,0:00:31.75,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.1\frx10\fscx119\fscy119\pos(292,333)\frz358.4}能的!
+Dialogue: 0,0:00:31.75,0:00:31.79,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\fax0.1\frx10\fscx116\fscy116\pos(292,333)\frz358.4}能的!
+Dialogue: 0,0:00:31.79,0:00:31.83,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx116\fscy116\frz5.706\pos(275.81,307.809)}能的!
+Dialogue: 0,0:00:31.83,0:00:31.88,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx114\fscy114\frz5.706\pos(276,308)}能的!
+Dialogue: 0,0:00:31.88,0:00:31.92,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx114\fscy114\frz8.2\pos(271.81,298.476)}能的!
+Dialogue: 0,0:00:31.92,0:00:31.96,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx114\fscy114\frz8.2\pos(273,298)}能的!
+Dialogue: 0,0:00:31.96,0:00:32.00,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx114\fscy114\pos(257,289.111)\frz10.17}能的!
+Dialogue: 0,0:00:32.00,0:00:32.04,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx112\fscy112\pos(257,291)\frz10.17}能的!
+Dialogue: 0,0:00:32.04,0:00:32.09,OPCH,在做,0,0,0,,{\1c&H505050&\bord0\fn方正兰亭大黑_GBK\frx10\fscx112\fscy112\frx10\frz11.85\pos(240,277.333)}能的!
+Comment: 0,0:00:31.58,0:00:33.00,OPCH,,0,0,0,,能的! 能的!
+Dialogue: 0,0:00:32.25,0:00:32.29,OPCH,,0,0,0,,{\1c&H505050&\bord0\fay-0.38\fn方正中粗雅宋_GBK\pos(1003,568)}能的!
+Dialogue: 0,0:00:32.29,0:00:32.34,OPCH,,0,0,0,,{\1c&H505050&\bord0\fay-0.38\fscx99\fscy99\pos(1003,569)}能的!
+Dialogue: 0,0:00:32.34,0:00:32.38,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx99\fscy99\frz19\pos(901.667,348)}能的!
+Dialogue: 0,0:00:32.38,0:00:32.42,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx98\fscy98\frz19\pos(901.667,348)}能的!
+Dialogue: 0,0:00:32.42,0:00:32.46,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx98\fscy98\frx5\frz19\pos(837.667,294.667)}能的!
+Dialogue: 0,0:00:32.46,0:00:32.50,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx97\fscy97\frx5\frz19\pos(837.667,294.667)}能的!
+Dialogue: 0,0:00:32.50,0:00:32.54,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx97\fscy97\frx10\frz19\pos(798,268)}能的!
+Dialogue: 0,0:00:32.54,0:00:32.59,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx96\fscy96\frx10\frz19\pos(798,268)}能的!
+Dialogue: 0,0:00:32.59,0:00:32.63,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx96\fscy96\frx13\frz19\pos(759,240)}能的!
+Dialogue: 0,0:00:32.63,0:00:32.67,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx95\fscy95\frx13\frz19\pos(759,240)}能的!
+Dialogue: 0,0:00:32.67,0:00:32.71,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx95\fscy95\frx13\frz19\pos(755,235)}能的!
+Dialogue: 0,0:00:32.71,0:00:32.75,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx94\fscy94\frx13\frz19\pos(755,235)}能的!
+Dialogue: 0,0:00:32.75,0:00:32.79,OPCH,,0,0,0,,{\1c&H505050&\bord0\fscx94\fscy94\frx13\frz19\pos(750,228)}能的!
+Dialogue: 1,0:00:33.00,0:00:34.38,OPCH,,0,0,0,,{\1c&HE696C8&\clip(0,10,640,60)\move(400,18,640,18,0,1000)}只要堅信的話
+Dialogue: 0,0:00:33.00,0:00:34.38,OPCH,,0,0,0,,{\1c&HAAB9EB&\iclip(0,10,640,60)\move(880,18,640,18,0,1000)}只要堅信的話
+Comment: 0,0:00:34.38,0:00:38.84,OPCH,,0,0,0,,因為是你寫出的答案
+Dialogue: 0,0:00:34.63,0:00:34.67,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz15.31\pos(995,535)}因為是你寫出的答案
+Dialogue: 0,0:00:34.67,0:00:34.71,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz15.31\pos(993,534)}因為是你寫出的答案
+Dialogue: 0,0:00:34.71,0:00:34.75,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz23\pos(885,355)}因為是你寫出的答案
+Dialogue: 0,0:00:34.75,0:00:34.80,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz23\fscx99\fscy99\pos(885,355)}因為是你寫出的答案
+Dialogue: 0,0:00:34.80,0:00:34.84,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz30.5\fscx99\fscy99\pos(855,314)}因為是你寫出的答案
+Dialogue: 0,0:00:34.84,0:00:34.88,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\frz30.5\fscx98\fscy98\pos(855,310)}因為是你寫出的答案
+Dialogue: 0,0:00:34.88,0:00:34.92,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx98\fscy98\frz33.5\pos(816,265)}因為是你寫出的答案
+Dialogue: 0,0:00:34.92,0:00:34.96,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx97\fscy97\frz33.5\pos(812,267)}因為是你寫出的答案
+Dialogue: 0,0:00:34.96,0:00:35.00,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx97\fscy97\frz39.6\pos(785,218)}因為是你寫出的答案
+Dialogue: 0,0:00:35.00,0:00:35.05,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx96\fscy96\frz39.6\pos(786,219)}因為是你寫出的答案
+Dialogue: 0,0:00:35.05,0:00:35.09,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx96\fscy96\frz44\pos(743,178)}因為是你寫出的答案
+Dialogue: 0,0:00:35.09,0:00:35.13,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx95\fscy95\frz44\pos(745,176)}因為是你寫出的答案
+Dialogue: 0,0:00:35.13,0:00:35.17,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx95\fscy95\frz46\pos(736,174)}因為是你寫出的答案
+Dialogue: 0,0:00:35.17,0:00:35.21,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx94\fscy94\frz46\pos(736,178)}因為是你寫出的答案
+Dialogue: 0,0:00:35.21,0:00:35.25,OPCH,,0,0,0,,{\1c&H5F5A64&\bord0\fscx94\fscy94\frz50\pos(729,171)}因為是你寫出的答案
+Dialogue: 0,0:00:35.34,0:00:35.42,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fscx94\fscy94\frz13.05\pos(1115,730)}因為是你寫出的答案
+Dialogue: 0,0:00:35.42,0:00:35.51,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.3\fscx94\fscy94\frz17.7\pos(1083,591)}因為是你寫出的答案
+Dialogue: 0,0:00:35.51,0:00:35.59,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.4\fscx94\fscy94\pos(956,426)\frz23}因為是你寫出的答案
+Dialogue: 0,0:00:35.59,0:00:35.67,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.4\fscx94\fscy94\frz23.02\pos(873,353)}因為是你寫出的答案
+Dialogue: 0,0:00:35.67,0:00:35.76,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz20.53\pos(802,294)}因為是你寫出的答案
+Dialogue: 0,0:00:35.76,0:00:35.84,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz23.23\pos(720,262)}因為是你寫出的答案
+Dialogue: 0,0:00:35.84,0:00:35.92,OPCH,,0,0,0,,{\1c&HFFFFFF&\bord0\fax0.45\fscx94\fscy94\frz25.05\pos(705,248)}因為是你寫出的答案
+Dialogue: 0,0:00:35.92,0:00:38.55,OPCH,,0,0,0,,{\1c&HCDB9F5&}因為是你寫出的答案
+Dialogue: 0,0:00:38.55,0:00:41.64,OPCH,,0,0,0,,{\1c&HE6E6E6&\bord0\fn@方正中粗雅宋_GBK\frz-90\pos(950,400)}定會用笑容欣然接受
+Comment: 0,0:00:40.76,0:00:43.47,OPCH,,0,0,0,,{\a6}A到Z的方程式
+Dialogue: 0,0:00:43.55,0:00:46.22,OPCH,,0,0,0,,{\1c&HF5AA87&}是未{\1c&HAAB9EB&}知的{\1c&H9678DC&}世界
+Dialogue: 0,0:00:46.10,0:00:50.40,OPCH,,0,0,0,,{\1c&H000000&\fnDFPHanziPen-W3\fscx100\fscy100\t(0,3920,\fscx95\fscy95)\blur1.5\bord0\move(643,155,648,165)\frz15.93\fs55}在春夏秋冬之中
+Dialogue: 0,0:00:50.40,0:00:53.36,OPCH,,0,0,0,,{\1c&H8C8C8C&\blur1.5\bord0\move(855,90,820,90)\frz34}不知餘下多少時光
+Dialogue: 0,0:00:53.36,0:00:54.48,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(745,603)}可以一起哭泣
+Dialogue: 0,0:00:54.48,0:00:54.57,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(745,603)\iclip(m 726 610 l 739 633 822 604 811 580)}可以一起哭泣
+Dialogue: 0,0:00:54.57,0:00:54.65,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(745,603)\iclip(m 671 628 l 688 650 758 623 737 605)}可以一起哭泣
+Dialogue: 0,0:00:54.65,0:00:55.07,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(745,603)}可以一起哭泣
+Dialogue: 0,0:00:55.07,0:00:55.11,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(744,600)}可以一起哭泣
+Dialogue: 0,0:00:55.11,0:00:55.15,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(741,592)}可以一起哭泣
+Dialogue: 0,0:00:55.15,0:00:55.19,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(737,582)}可以一起哭泣
+Dialogue: 0,0:00:55.19,0:00:55.23,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(733,569)\clip(m 775 552 l 790 569 801 544)}可以一起哭泣
+Dialogue: 0,0:00:55.23,0:00:55.27,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(728,553)\clip(m 760 537 l 789 566 799 548 799 530)}可以一起哭泣
+Dialogue: 0,0:00:55.27,0:00:55.32,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(719,532)\iclip(m 715 532 l 787 508 796 535 728 560)}可以一起哭泣
+Dialogue: 0,0:00:55.32,0:00:55.36,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(714,514)\clip(m 778 492 l 714 513 734 535 786 518 779 512)}可以一起哭泣
+Dialogue: 0,0:00:55.36,0:00:55.40,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(709,491)\clip(m 638 512 l 650 509 654 535 646 535)}可以一起哭泣
+Dialogue: 0,0:00:55.40,0:00:55.44,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(702,469)\clip(m 631 491 l 648 485 651 513 640 516)}可以一起哭泣
+Dialogue: 0,0:00:55.44,0:00:55.48,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx65\fscy65\pos(694,444)\clip(m 621 466 l 738 427 741 458 634 492)}可以一起哭泣
+Dialogue: 0,0:00:55.48,0:00:55.53,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(678,450)}可以一起哭泣
+Dialogue: 0,0:00:55.53,0:00:55.57,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(665,408)}可以一起哭泣
+Dialogue: 0,0:00:55.57,0:00:55.61,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(651,364)}可以一起哭泣
+Dialogue: 0,0:00:55.61,0:00:55.65,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(636,318)}可以一起哭泣
+Dialogue: 0,0:00:55.65,0:00:55.69,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(621,272)}可以一起哭泣
+Dialogue: 0,0:00:55.69,0:00:55.73,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(606,226)}可以一起哭泣
+Dialogue: 0,0:00:55.73,0:00:55.78,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(591,180)}可以一起哭泣
+Dialogue: 0,0:00:55.78,0:00:55.82,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx105\fscy105\pos(574,124)}可以一起哭泣
+Dialogue: 0,0:00:55.53,0:00:55.57,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(797,687)}可以一同歡笑
+Dialogue: 0,0:00:55.57,0:00:55.61,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(782,643)}可以一同歡笑
+Dialogue: 0,0:00:55.61,0:00:55.65,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(767,599)}可以一同歡笑
+Dialogue: 0,0:00:55.65,0:00:55.69,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(752,553)}可以一同歡笑
+Dialogue: 0,0:00:55.69,0:00:55.73,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(737,505)}可以一同歡笑
+Dialogue: 0,0:00:55.73,0:00:55.78,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(722,457)}可以一同歡笑
+Dialogue: 0,0:00:55.78,0:00:55.82,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(705,407)}可以一同歡笑
+Dialogue: 0,0:00:55.82,0:00:55.86,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(688,355)}可以一同歡笑
+Dialogue: 0,0:00:55.86,0:00:55.90,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(671,303)}可以一同歡笑
+Dialogue: 0,0:00:55.90,0:00:58.24,OPCH,,0,0,0,,{\1c&H3C3C3C&\blur1\bord0\fn方正兰亭圆_GBK_细\frz18\fscx80\fscy80\pos(653,249)}可以一同歡笑
+Dialogue: 0,0:00:58.24,0:01:01.99,OPCH,,0,0,0,,{\1c&H5F5A64&\fn@华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\frz289\move(413,345,491,307)}各自選擇的道路
+Dialogue: 0,0:01:01.99,0:01:04.83,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\move(315,620,458,620)}如果沒有錯的話
+Dialogue: 0,0:01:04.83,0:01:04.87,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(461,620)}如果沒有錯的話
+Dialogue: 0,0:01:04.87,0:01:04.91,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(465,621)}如果沒有錯的話
+Dialogue: 0,0:01:04.91,0:01:04.95,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(470,622)}如果沒有錯的話
+Dialogue: 0,0:01:04.95,0:01:04.99,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(477,622.3)}如果沒有錯的話
+Dialogue: 0,0:01:04.99,0:01:05.03,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(486,623)}如果沒有錯的話
+Dialogue: 0,0:01:05.03,0:01:05.08,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(499,624)}如果沒有錯的話
+Dialogue: 0,0:01:05.08,0:01:05.12,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(516,626)}如果沒有錯的話
+Dialogue: 0,0:01:05.12,0:01:05.16,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(540,628)}如果沒有錯的話
+Dialogue: 0,0:01:05.16,0:01:05.20,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(571,630)}如果沒有錯的話
+Dialogue: 0,0:01:05.20,0:01:05.24,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(611,634)}如果沒有錯的話
+Dialogue: 0,0:01:05.24,0:01:05.28,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(662,637)}如果沒有錯的話
+Dialogue: 0,0:01:05.28,0:01:05.33,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(724,640)}如果沒有錯的話
+Dialogue: 0,0:01:05.33,0:01:05.37,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(796,642)}如果沒有錯的話
+Dialogue: 0,0:01:05.37,0:01:05.41,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(876,643)}如果沒有錯的話
+Dialogue: 0,0:01:05.41,0:01:05.45,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(961,644)}如果沒有錯的話
+Dialogue: 0,0:01:05.45,0:01:05.49,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1050,640)}如果沒有錯的話
+Dialogue: 0,0:01:05.49,0:01:05.54,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1140,633)}如果沒有錯的話
+Dialogue: 0,0:01:05.54,0:01:05.58,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1232,622)}如果沒有錯的話
+Dialogue: 0,0:01:05.58,0:01:05.62,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1322,604)}如果沒有錯的話
+Dialogue: 0,0:01:05.62,0:01:05.66,OPCH,,0,0,0,,{\1c&H5F5A64&\fn华康翩翩体W3-A\fscx100\fscy100\t(0,3920,\fscx98\fscy98)\bord0\pos(1411,581)}如果沒有錯的話
+Dialogue: 0,0:01:06.08,0:01:09.50,OPCH,,0,0,0,,{\1c&H000000&\bord0}讓我們一同回答吧
+Dialogue: 0,0:01:10.33,0:01:13.67,OPCH,,0,0,0,,{\1c&H2C2C65&\bord0\fn华康翩翩体W3-A\fs44}稍稍過於來遲的成長期
+Dialogue: 0,0:01:13.79,0:01:16.63,OPCH,,0,0,0,,{\1c&HFFFFFF&\3c&H916955&\b1\bord3\fn造字工房星岩体（非商用）}大器晚成的每一天
+Dialogue: 0,0:01:16.75,0:01:21.43,OPCH,,0,0,0,,{\bord0\fn华康翩翩体W3-A\fs44\1c&HEB82C3&}鐫刻{\1c&HEBBE8C&}下成{\1c&H87C8EB&}長的{\1cH9682EB&}圖表
+Dialogue: 1,0:01:21.93,0:01:27.77,OPCH,,0,0,0,,{\1c&H000000&\3c&H916955&\bord0\fn方正兰亭特黑_GBK\move(640,25,1760,325,5434,5870)}即使不全是正確的答案
+Dialogue: 0,0:01:21.93,0:01:27.77,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H000000&\blur1\bord2\fscx80\fscy15\p1\move(567,72,1687,372,5434,5870)}m 214 52 l 219 35 234 50 262 65 276 60 269 42 306 63 348 72 438 60 521 32 521 46 532 58 543 59 552 53 556 62 568 62 595 52 620 29 615 54 617 73 624 73 639 67 636 87 639 100 654 105 665 104 648 136 636 176 630 228 634 286 641 320 654 350 635 352 630 361 633 384 651 427 626 415 610 416 598 422 592 434 590 446 576 432 562 426 554 442 550 453 550 469 521 452 483 440 441 433 376 429 320 432 277 439 249 452 247 439 239 429 232 427 222 434 218 426 206 425 205 415 198 410 173 406 140 405 104 414 128 381 144 350 134 348 110 355 112 339 110 334 130 312 140 297 92 296 108 279 109 269 104 264 98 263 106 237 110 212 107 194 86 171 101 168 110 156 108 145 114 142 112 135 124 116 117 73 107 61 142 73 182 74 206 63\N
+Dialogue: 1,0:01:27.97,0:01:31.10,OPCH,,0,0,0,,{\1c&H000000&\bord0\pos(640,25)}日積月累的每一天{\1a&HFF&\fn方正标雅宋_GBK}總會變成指路的明燈
+Dialogue: 1,0:01:31.10,0:01:31.60,OPCH,,0,0,0,,{\1c&H000000&\bord0\move(640,25,1740,-93)}日積月累的每一天{\1a&HFF&\fn方正标雅宋_GBK}總會變成指路的明燈
+Dialogue: 0,0:01:29.52,0:01:29.60,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 554 80 561 53)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.60,0:01:29.68,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 481 81 476 61 601 61)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.68,0:01:29.77,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 295 86 289 28 601 61)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.77,0:01:29.85,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 335 82 289 28 355 10 601 61)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.85,0:01:29.93,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 335 82 289 28 355 10 458 13 601 61)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.93,0:01:30.02,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)\clip(m 641 70 l 335 82 289 28 355 10 458 13 560 11 601 61)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:30.02,0:01:31.10,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\pos(622,90)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:31.10,0:01:31.60,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1370\fscy230\p1\move(622,90,1722,-28)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 1,0:01:27.97,0:01:32.77,OPCH,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0\pos(640,25)}日積月累的每一天{\1a&H00&\fn方正标雅宋_GBK}總會變成指路的明燈
+Dialogue: 0,0:01:31.85,0:01:32.77,OPCH,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\pos(945,45)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 1,0:01:32.77,0:01:33.06,OPCH,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0\move(640,25,865,-43)}日積月累的每一天{\1a&H00&\fn方正标雅宋_GBK}總會變成指路的明燈
+Dialogue: 0,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\move(945,90,1170,22)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 1,0:01:27.97,0:01:31.10,OPJP,,0,0,0,,{\1c&H000000&\bord0}積み重ねてきた毎日が{\1a&HFF&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Dialogue: 1,0:01:27.97,0:01:31.10,OPJP,,0,0,0,,{\1c&H000000&\bord0}積み重ねてきた毎日が{\1a&HFF&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Dialogue: 1,0:01:31.10,0:01:31.60,OPJP,,0,0,0,,{\1c&H000000&\bord0\move(640,700,1740,818)}積み重ねてきた毎日が{\1a&HFF&\bord0}ミチシルベになるよ
+Dialogue: 0,0:01:29.52,0:01:29.60,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.60,0:01:29.68,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 451 705)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.68,0:01:29.77,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.77,0:01:29.85,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.85,0:01:29.93,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638 442 638)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:29.93,0:01:30.02,OPJP,,0,0,0,,{\1a&HFF&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 578 677 l 668 698 575 712 290 706 272 662 311 638 442 638 585 640)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:30.02,0:01:31.10,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\pos(655,720)\clip(m 679 696 l 648 709 575 712 290 706 272 662 311 638 442 638 585 640 678 644)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:31.10,0:01:31.60,OPJP,,0,0,0,,{\1c&HF2F2F2&\3c&H6446C3&\bord4\fscx1800\fscy230\p1\move(660,720,1760,838)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 2,0:01:27.97,0:01:32.77,OPJP,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0}積み重ねてきた毎日が{\1a&H00&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Dialogue: 0,0:01:31.85,0:01:32.77,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\pos(985,720)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 2,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1a&HFF&\1c&H000000&\bord0\move(640,700,865,768)}積み重ねてきた毎日が{\1a&H00&\fnFOT-TsukuMin Pr6N M}ミチシルベになるよ
+Dialogue: 0,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\move(985,720,1220,788)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Comment: 0,0:01:32.77,0:01:33.06,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx1700\fscy230\p1\move(985,720,1220,788)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 1,0:01:34.06,0:01:35.52,OPCH,,0,0,0,,{\1c&H000000&\bord0\fn方正兰亭圆_GBK_细\fs36}如今已有多少次乘風破浪越過難題?
+Dialogue: 1,0:01:35.52,0:01:40.36,OPCH,,0,0,0,,{\1c&H000000&\bord0\fn方正兰亭圆_GBK_细\fs36\move(640,25,1680,25,4378,4840)}如今已有多少次乘風破浪越過難題?
+Dialogue: 0,0:01:35.52,0:01:40.36,OPJP,,0,0,0,,{\1c&HF2F2F2&\bord4\fscx2800\fscy230\p1\move(915,88,1955,88,4378,4840)}m 0 0 l -10 0 l -10 0 l -10 -6 b -10 -9 -9 -10 -6 -10 l 6 -10 b 9 -10 10 -9 10 -6 l 10 6 b 10 9 9 10 6 10 l -6 10 b -9 10 -10 9 -10 6 l -10 0
+Dialogue: 0,0:01:40.57,0:01:41.99,OPCH,,0,0,0,,{\1c&H968CB4&\t(724,724,\1c&H9678DC&)}能的{\1c&H968CB4&\t(724,724,\1c&HAAB9EB&)}! 能{\1c&H968CB4&\t(724,724,\1c&HF5AA87&)}的!
+Dialogue: 0,0:01:42.07,0:01:43.49,OPCH,,0,0,0,,{\1c&HE696C8&}一定會{\1c&HCDB9F5&}實現
+Dialogue: 0,0:01:43.49,0:01:45.37,OPCH,,0,0,0,,{\1c&HCDB9F5&}因此{\1c&H9678DC&}讓{\1c&HAAB9EB&)}我們{\1c&H968CB4&}一同{\1c&HF5AA87&)}前行{\1c&HE696C8&}吧!
+Dialogue: 0,0:01:45.37,0:01:47.95,OPCH,,0,0,0,,{\1c&HD7645A&\bord0\fn方正兰亭圆_GBK_中\fs36}因此讓我們一同前行吧!
+Dialogue: 0,0:01:47.95,0:01:51.04,OPCH,,0,0,0,,{\1a&HFF&\bord1.5}因此讓我們一同前行吧!
+Dialogue: 0,0:04:23.38,0:04:25.38,Default,,0,0,0,,
